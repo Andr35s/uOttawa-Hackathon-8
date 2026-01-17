@@ -1,2 +1,2 @@
 #test1
-print("hello?")
+print("hi")
