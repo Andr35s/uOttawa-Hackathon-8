@@ -1,5 +1,4 @@
-#test1
-print("hi")
+import math #test1
 
 #addition 
 def addition(num1, num2):
